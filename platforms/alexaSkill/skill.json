@@ -1,0 +1,304 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "en-US": {
+          "summary": "Listen to cool music inspired in Forest Fantasies.",
+          "examplePhrases": [
+            "Alexa, open forest fantasy.",
+            "Alexa, ask forest fantasy for a background.",
+            "Alexa, tell forest fantasy to play forest music."
+          ],
+          "keywords": [
+            "celtic",
+            "forest",
+            "music",
+            "sound",
+            "movie",
+            "background",
+            "screen",
+            "spot",
+            "show",
+            "black",
+            "mirror",
+            "best",
+            "sad",
+            "sadness",
+            "gray",
+            "grey",
+            "hour",
+            "melody",
+            "song",
+            "great",
+            "ever",
+            "extraordinary",
+            "different"
+          ],
+          "name": "Forest Fantasy Music & Background",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/45ba/5d1bda7e139947eea104cc902955e7d4/APP_ICON?versionId=f_zAMm9B27rVoIz55LB1zbQaOUc7CXzH&AWSAccessKeyId=AKIAJFEYRBGIHK2BBYKA&Expires=1538705150&Signature=UqkCn2D97m8HXGfq24nPdx0RMKg%3D",
+          "description": "Do you think Alexa enjoys fantasy music? Well, yes she does. Specially music inspired in forest fantasies. You can ask her to play fantasy melodies, and she will find the best forest fantasy melodies to play for an hour. If you have a screen device like Echo Show and Echo Spot you can see forest fantasy images throughout all the time the melody lasts.\n\nYou can say things like:\n\nAlexa, start forest fantasy.\nAlexa, ask forest fantasy for a forest background.\nAlexa, tell forest fantasy to surprise me.\n\nIMPORTANT: due to the video duration (1 hour), Echo Show and Echo Spot devices last some seconds to load the video. If it's the first time you open the skill you'll experience a 5-7 seconds delay. Next times, it lasts 3-4 seconds to load, depending on your internet connection.\n\nCredits to the video and music goes to Derek & Brandon Fiechter. Visit their YouToube Channel for more excellent content: https://www.youtube.com/channel/UCjMZjGhrFq_4llVS_x2XJ_w.\n\nIf you have any questions or suggestions for more skills, just leave an email at octaviomenocal92@gmail.com.\n\nThanks and enjoy!",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/39dd/622a327fcc864ad5844aab86f224e3b1/APP_ICON_LARGE?versionId=GPbcICmgsEFwMaBhXGWtfITgXzlnxhk2&AWSAccessKeyId=AKIAJFEYRBGIHK2BBYKA&Expires=1538705150&Signature=bcYFOIX1H2rpvSI3beFM50%2B%2FrP0%3D"
+        },
+        "en-CA": {
+          "summary": "Listen to cool music inspired in Forest Fantasies.",
+          "examplePhrases": [
+            "Alexa, open forest fantasy.",
+            "Alexa, ask forest fantasy for a background.",
+            "Alexa, tell forest fantasy to play forest music."
+          ],
+          "keywords": [
+            "celtic",
+            "forest",
+            "music",
+            "sound",
+            "movie",
+            "background",
+            "screen",
+            "spot",
+            "show",
+            "black",
+            "mirror",
+            "best",
+            "sad",
+            "sadness",
+            "gray",
+            "grey",
+            "hour",
+            "melody",
+            "song",
+            "great",
+            "ever",
+            "extraordinary",
+            "different"
+          ],
+          "name": "Forest Fantasy Music & Background",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/45ba/5d1bda7e139947eea104cc902955e7d4/APP_ICON?versionId=f_zAMm9B27rVoIz55LB1zbQaOUc7CXzH&AWSAccessKeyId=AKIAJFEYRBGIHK2BBYKA&Expires=1538705150&Signature=UqkCn2D97m8HXGfq24nPdx0RMKg%3D",
+          "description": "Do you think Alexa enjoys fantasy music? Well, yes she does. Specially music inspired in forest fantasies. You can ask her to play fantasy melodies, and she will find the best forest fantasy melodies to play for an hour. If you have a screen device like Echo Show and Echo Spot you can see forest fantasy images throughout all the time the melody lasts.\n\nYou can say things like:\n\nAlexa, start forest fantasy.\nAlexa, ask forest fantasy for a forest background.\nAlexa, tell forest fantasy to surprise me.\n\nIMPORTANT: due to the video duration (1 hour), Echo Show and Echo Spot devices last some seconds to load the video. If it's the first time you open the skill you'll experience a 5-7 seconds delay. Next times, it lasts 3-4 seconds to load, depending on your internet connection.\n\nCredits to the video and music goes to Derek & Brandon Fiechter. Visit their YouToube Channel for more excellent content: https://www.youtube.com/channel/UCjMZjGhrFq_4llVS_x2XJ_w.\n\nIf you have any questions or suggestions for more skills, just leave an email at octaviomenocal92@gmail.com.\n\nThanks and enjoy!",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/39dd/622a327fcc864ad5844aab86f224e3b1/APP_ICON_LARGE?versionId=GPbcICmgsEFwMaBhXGWtfITgXzlnxhk2&AWSAccessKeyId=AKIAJFEYRBGIHK2BBYKA&Expires=1538705150&Signature=bcYFOIX1H2rpvSI3beFM50%2B%2FrP0%3D"
+        },
+        "en-IN": {
+          "summary": "Listen to cool music inspired in Forest Fantasies.",
+          "examplePhrases": [
+            "Alexa, open forest fantasy.",
+            "Alexa, ask forest fantasy for a background.",
+            "Alexa, tell forest fantasy to play forest music."
+          ],
+          "keywords": [
+            "celtic",
+            "forest",
+            "music",
+            "sound",
+            "movie",
+            "background",
+            "screen",
+            "spot",
+            "show",
+            "black",
+            "mirror",
+            "best",
+            "sad",
+            "sadness",
+            "gray",
+            "grey",
+            "hour",
+            "melody",
+            "song",
+            "great",
+            "ever",
+            "extraordinary",
+            "different"
+          ],
+          "name": "Forest Fantasy Music & Background",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/45ba/5d1bda7e139947eea104cc902955e7d4/APP_ICON?versionId=f_zAMm9B27rVoIz55LB1zbQaOUc7CXzH&AWSAccessKeyId=AKIAJFEYRBGIHK2BBYKA&Expires=1538705150&Signature=UqkCn2D97m8HXGfq24nPdx0RMKg%3D",
+          "description": "Do you think Alexa enjoys fantasy music? Well, yes she does. Specially music inspired in forest fantasies. You can ask her to play fantasy melodies, and she will find the best forest fantasy melodies to play for an hour. If you have a screen device like Echo Show and Echo Spot you can see forest fantasy images throughout all the time the melody lasts.\n\nYou can say things like:\n\nAlexa, start forest fantasy.\nAlexa, ask forest fantasy for a forest background.\nAlexa, tell forest fantasy to surprise me.\n\nIMPORTANT: due to the video duration (1 hour), Echo Show and Echo Spot devices last some seconds to load the video. If it's the first time you open the skill you'll experience a 5-7 seconds delay. Next times, it lasts 3-4 seconds to load, depending on your internet connection.\n\nCredits to the video and music goes to Derek & Brandon Fiechter. Visit their YouToube Channel for more excellent content: https://www.youtube.com/channel/UCjMZjGhrFq_4llVS_x2XJ_w.\n\nIf you have any questions or suggestions for more skills, just leave an email at octaviomenocal92@gmail.com.\n\nThanks and enjoy!",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/39dd/622a327fcc864ad5844aab86f224e3b1/APP_ICON_LARGE?versionId=GPbcICmgsEFwMaBhXGWtfITgXzlnxhk2&AWSAccessKeyId=AKIAJFEYRBGIHK2BBYKA&Expires=1538705150&Signature=bcYFOIX1H2rpvSI3beFM50%2B%2FrP0%3D"
+        },
+        "en-AU": {
+          "summary": "Listen to cool music inspired in Forest Fantasies.",
+          "examplePhrases": [
+            "Alexa, open forest fantasy.",
+            "Alexa, ask forest fantasy for a background.",
+            "Alexa, tell forest fantasy to play forest music."
+          ],
+          "keywords": [
+            "celtic",
+            "forest",
+            "music",
+            "sound",
+            "movie",
+            "background",
+            "screen",
+            "spot",
+            "show",
+            "black",
+            "mirror",
+            "best",
+            "sad",
+            "sadness",
+            "gray",
+            "grey",
+            "hour",
+            "melody",
+            "song",
+            "great",
+            "ever",
+            "extraordinary",
+            "different"
+          ],
+          "name": "Forest Fantasy Music & Background",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/45ba/5d1bda7e139947eea104cc902955e7d4/APP_ICON?versionId=f_zAMm9B27rVoIz55LB1zbQaOUc7CXzH&AWSAccessKeyId=AKIAJFEYRBGIHK2BBYKA&Expires=1538705150&Signature=UqkCn2D97m8HXGfq24nPdx0RMKg%3D",
+          "description": "Do you think Alexa enjoys fantasy music? Well, yes she does. Specially music inspired in forest fantasies. You can ask her to play fantasy melodies, and she will find the best forest fantasy melodies to play for an hour. If you have a screen device like Echo Show and Echo Spot you can see forest fantasy images throughout all the time the melody lasts.\n\nYou can say things like:\n\nAlexa, start forest fantasy.\nAlexa, ask forest fantasy for a forest background.\nAlexa, tell forest fantasy to surprise me.\n\nIMPORTANT: due to the video duration (1 hour), Echo Show and Echo Spot devices last some seconds to load the video. If it's the first time you open the skill you'll experience a 5-7 seconds delay. Next times, it lasts 3-4 seconds to load, depending on your internet connection.\n\nCredits to the video and music goes to Derek & Brandon Fiechter. Visit their YouToube Channel for more excellent content: https://www.youtube.com/channel/UCjMZjGhrFq_4llVS_x2XJ_w.\n\nIf you have any questions or suggestions for more skills, just leave an email at octaviomenocal92@gmail.com.\n\nThanks and enjoy!",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/39dd/622a327fcc864ad5844aab86f224e3b1/APP_ICON_LARGE?versionId=GPbcICmgsEFwMaBhXGWtfITgXzlnxhk2&AWSAccessKeyId=AKIAJFEYRBGIHK2BBYKA&Expires=1538705150&Signature=bcYFOIX1H2rpvSI3beFM50%2B%2FrP0%3D"
+        },
+        "es-ES": {
+          "summary": "Disfruta de grandiosas melodías inspiradas en Fantasías del Bosque.",
+          "examplePhrases": [
+            "Alexa, abre fantasía del bosque.",
+            "Alexa, pide a fantasía del bosque que me deslumbre.",
+            "Alexa, pide a fantasía del bosque música celta."
+          ],
+          "keywords": [
+            "celta",
+            "elfo",
+            "élfico",
+            "élfica",
+            "bosque",
+            "fantasía",
+            "música",
+            "película",
+            "fondo",
+            "pantalla",
+            "spot",
+            "show",
+            "negro",
+            "espejo",
+            "mejor",
+            "triste",
+            "tristeza",
+            "gris",
+            "hora",
+            "melodía",
+            "canción",
+            "grandioso",
+            "extraordinario",
+            "diferente"
+          ],
+          "name": "Fantasía del Bosque",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/45ba/5d1bda7e139947eea104cc902955e7d4/APP_ICON?versionId=f_zAMm9B27rVoIz55LB1zbQaOUc7CXzH&AWSAccessKeyId=AKIAJFEYRBGIHK2BBYKA&Expires=1538705150&Signature=UqkCn2D97m8HXGfq24nPdx0RMKg%3D",
+          "description": "¿Crees que Alexa disfruta la música aterradora? Bueno, si lo hace. Espcialmente música inspirada en Muñecas Aterradoras. Puedes pedirle que reproduzca melodías aterradoras, y ella encontrará las mejores melodías para tí que duran mas de una hora. Si tienes un dispositivo con pantalla como el Echo Spot, puedes ver imágenes de muñecas aterradoras mientras la melodía dure.\n\nPuedes decir cosas como:\n\nAlexa, abre muñeca aterradora.\nAlexa, pídele a muñeca aterradora un fondo aterrador.\nAlexa, dile a muñeca aterradora que me espante.\n\nCréditos del video y música van para Derek & Brandon Fiechter. Visita su canal de YouToube para más contenido de calidad: https://www.youtube.com/channel/UCjMZjGhrFq_4llVS_x2XJ_w.\n\nIMPORTANTE: debido a la duración del video (1 hora), el Echo Spot dilata unos segundos en cargar el video. Si es la primera vez que abres la skill, experimentarás un retraso de 5 a 7 segundos antes que inicie. Las siguientes ocasiones, dilata entre 3 y 4 segundos en cargar, dependiendo de tu conexión a internet.\n\nSi tienes alguna pregunta o sugerencia para más skills, sólo envíame un correo a octaviomenocal92@gmail.com.\n\nGracias y disfruta!",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/39dd/622a327fcc864ad5844aab86f224e3b1/APP_ICON_LARGE?versionId=GPbcICmgsEFwMaBhXGWtfITgXzlnxhk2&AWSAccessKeyId=AKIAJFEYRBGIHK2BBYKA&Expires=1538705150&Signature=bcYFOIX1H2rpvSI3beFM50%2B%2FrP0%3D"
+        },
+        "en-GB": {
+          "summary": "Listen to cool music inspired in Forest Fantasies.",
+          "examplePhrases": [
+            "Alexa, open forest fantasy.",
+            "Alexa, ask forest fantasy for a background.",
+            "Alexa, tell forest fantasy to play forest music."
+          ],
+          "keywords": [
+            "celtic",
+            "forest",
+            "music",
+            "sound",
+            "movie",
+            "background",
+            "screen",
+            "spot",
+            "show",
+            "black",
+            "mirror",
+            "best",
+            "sad",
+            "sadness",
+            "gray",
+            "grey",
+            "hour",
+            "melody",
+            "song",
+            "great",
+            "ever",
+            "extraordinary",
+            "different"
+          ],
+          "name": "Forest Fantasy Music & Background",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/45ba/5d1bda7e139947eea104cc902955e7d4/APP_ICON?versionId=f_zAMm9B27rVoIz55LB1zbQaOUc7CXzH&AWSAccessKeyId=AKIAJFEYRBGIHK2BBYKA&Expires=1538705150&Signature=UqkCn2D97m8HXGfq24nPdx0RMKg%3D",
+          "description": "Do you think Alexa enjoys fantasy music? Well, yes she does. Specially music inspired in forest fantasies. You can ask her to play fantasy melodies, and she will find the best forest fantasy melodies to play for an hour. If you have a screen device like Echo Show and Echo Spot you can see forest fantasy images throughout all the time the melody lasts.\n\nYou can say things like:\n\nAlexa, start forest fantasy.\nAlexa, ask forest fantasy for a forest background.\nAlexa, tell forest fantasy to surprise me.\n\nIMPORTANT: due to the video duration (1 hour), Echo Show and Echo Spot devices last some seconds to load the video. If it's the first time you open the skill you'll experience a 5-7 seconds delay. Next times, it lasts 3-4 seconds to load, depending on your internet connection.\n\nCredits to the video and music goes to Derek & Brandon Fiechter. Visit their YouToube Channel for more excellent content: https://www.youtube.com/channel/UCjMZjGhrFq_4llVS_x2XJ_w.\n\nIf you have any questions or suggestions for more skills, just leave an email at octaviomenocal92@gmail.com.\n\nThanks and enjoy!",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/39dd/622a327fcc864ad5844aab86f224e3b1/APP_ICON_LARGE?versionId=GPbcICmgsEFwMaBhXGWtfITgXzlnxhk2&AWSAccessKeyId=AKIAJFEYRBGIHK2BBYKA&Expires=1538705150&Signature=bcYFOIX1H2rpvSI3beFM50%2B%2FrP0%3D"
+        },
+        "es-MX": {
+          "summary": "Disfruta de grandiosas melodías inspiradas en Fantasías del Bosque.",
+          "examplePhrases": [
+            "Alexa, abre fantasía del bosque.",
+            "Alexa, pide a fantasía del bosque que me deslumbre.",
+            "Alexa, pide a fantasía del bosque música celta."
+          ],
+          "keywords": [
+            "celta",
+            "elfo",
+            "élfico",
+            "élfica",
+            "bosque",
+            "fantasía",
+            "música",
+            "película",
+            "fondo",
+            "pantalla",
+            "spot",
+            "show",
+            "negro",
+            "espejo",
+            "mejor",
+            "triste",
+            "tristeza",
+            "gris",
+            "hora",
+            "melodía",
+            "canción",
+            "grandioso",
+            "extraordinario",
+            "diferente"
+          ],
+          "name": "Fantasía del Bosque",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/45ba/5d1bda7e139947eea104cc902955e7d4/APP_ICON?versionId=f_zAMm9B27rVoIz55LB1zbQaOUc7CXzH&AWSAccessKeyId=AKIAJFEYRBGIHK2BBYKA&Expires=1538705150&Signature=UqkCn2D97m8HXGfq24nPdx0RMKg%3D",
+          "description": "¿Crees que Alexa disfruta la música aterradora? Bueno, si lo hace. Espcialmente música inspirada en Muñecas Aterradoras. Puedes pedirle que reproduzca melodías aterradoras, y ella encontrará las mejores melodías para tí que duran mas de una hora. Si tienes un dispositivo con pantalla como el Echo Spot, puedes ver imágenes de muñecas aterradoras mientras la melodía dure.\n\nPuedes decir cosas como:\n\nAlexa, abre muñeca aterradora.\nAlexa, pídele a muñeca aterradora un fondo aterrador.\nAlexa, dile a muñeca aterradora que me espante.\n\nCréditos del video y música van para Derek & Brandon Fiechter. Visita su canal de YouToube para más contenido de calidad: https://www.youtube.com/channel/UCjMZjGhrFq_4llVS_x2XJ_w.\n\nIMPORTANTE: debido a la duración del video (1 hora), el Echo Spot dilata unos segundos en cargar el video. Si es la primera vez que abres la skill, experimentarás un retraso de 5 a 7 segundos antes que inicie. Las siguientes ocasiones, dilata entre 3 y 4 segundos en cargar, dependiendo de tu conexión a internet.\n\nSi tienes alguna pregunta o sugerencia para más skills, sólo envíame un correo a octaviomenocal92@gmail.com.\n\nGracias y disfruta!",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/39dd/622a327fcc864ad5844aab86f224e3b1/APP_ICON_LARGE?versionId=GPbcICmgsEFwMaBhXGWtfITgXzlnxhk2&AWSAccessKeyId=AKIAJFEYRBGIHK2BBYKA&Expires=1538705150&Signature=bcYFOIX1H2rpvSI3beFM50%2B%2FrP0%3D"
+        }
+      },
+      "isAvailableWorldwide": true,
+      "testingInstructions": "Submitted 2018/10/06\n- Open the skill with an Echo screen device (Show/Spot) to play a video with the music.\n- Open the skill with a non screen device to listen to the same music with the Audio playback features",
+      "category": "NOVELTY",
+      "distributionCountries": []
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "sslCertificateType": "Trusted",
+          "uri": "arn:aws:lambda:us-east-1:496454139797:function:fantasy-music-voice-app"
+        },
+        "interfaces": [
+          {
+            "type": "AUDIO_PLAYER"
+          },
+          {
+            "type": "RENDER_TEMPLATE",
+            "minimumTemplateVersion": "1.0"
+          },
+          {
+            "type": "VIDEO_APP"
+          },
+          {
+            "type": "CAN_FULFILL_INTENT_REQUEST"
+          }
+        ]
+      }
+    },
+    "manifestVersion": "1.0",
+    "privacyAndCompliance": {
+      "allowsPurchases": false,
+      "isExportCompliant": true,
+      "containsAds": false,
+      "isChildDirected": false,
+      "usesPersonalInfo": false
+    }
+  }
+}
