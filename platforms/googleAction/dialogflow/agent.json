@@ -1,7 +1,7 @@
 {
 	"description": "",
 	"webhook": {
-		"url": "https://webhook.jovo.cloud/f56c569e-aca3-4dba-bf15-cb1330d80061",
+		"url": "undefined",
 		"available": true,
 		"useForDomains": false,
 		"cloudFunctionsEnabled": false,

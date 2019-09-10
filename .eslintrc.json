@@ -19,7 +19,7 @@
     "no-unused-expressions": "off",
     "no-use-before-define": "off",
     "no-param-reassign": "off",
-    "no-unused-vars": "warn"
+    "strict": "off"
   },
   "env": {
     "browser": false,

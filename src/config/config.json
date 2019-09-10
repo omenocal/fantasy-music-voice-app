@@ -1,0 +1,21 @@
+{
+  "alexaSkillId": "amzn1.ask.skill.22313e9d-6469-4244-8c3c-65295579a9c2",
+  "googleActionId": "",
+  "dashbot" : {
+    "alexa" : "HLWdWXIpKYuw7syAD0D1fMr6D8delIsYnn9XT338",
+    "google" : "Ebh9h907xDRqq2aEhzx6diK77MZk67Skox0ES5V6"
+  },
+  "googleAnalytics" : {
+    "trackingCode" : "UA-99309961-8"
+  },
+  "db": {
+    "type": "dynamodb",
+    "tableName": "FantasyMusic",
+    "awsConfig": {
+      "region": "us-region-1"
+    }
+  },
+  "s3": {
+    "url": "https://s3.amazonaws.com/fantasymusicvoiceapp"
+  }
+}

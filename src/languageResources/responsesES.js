@@ -4,8 +4,8 @@ module.exports = {
   es: {
     translation: {
       Welcome: {
-        LaunchFirstTime: 'Bienvenido a Fantasía del Bosque! Puedo reproducir una excelente pieza ' +
-          'musical para que te puedas relajar. ¿Te gustaría escucharla?',
+        LaunchFirstTime: 'Bienvenido a Fantasía del Bosque! Puedo reproducir una excelente pieza '
+          + 'musical para que te puedas relajar. ¿Te gustaría escucharla?',
         Launch: 'Hola de nuevo. ¿Listo para una hora de Fantasía del Bosque?',
 
         reprompt: '¿Te gustaría escucharla?',
