@@ -4,7 +4,7 @@ module.exports = {
   en: {
     translation: {
       Welcome: {
-        LaunchFirstTime: 'Welcome to the Forest Fantasy skill! I can play an excellent piece of music so that '
+        LaunchFirstTime: 'Welcome to Forest Fantasy! I can play an excellent piece of music so that '
           + 'you can relax, or frighten, it depends on you. Would you like to listen to it now?',
         Launch: 'Welcome back. Ready for an hour of Forest Fantasy Music?',
 
